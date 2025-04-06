@@ -31,7 +31,6 @@ I'm a Full-Stack Web Developer with over 2 years of experience delivering scalab
 
 ## 📈 GitHub Stats
 
-![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NourMidan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NourMidan&layout=compact&theme=radical)
 
 
