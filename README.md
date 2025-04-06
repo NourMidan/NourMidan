@@ -1,80 +1,95 @@
-# 👋 Hi, I'm Nour Abdelmonem Aly
+# 👋 Hi there, I'm Nour Abdelmonem Aly
 
-I'm a Full-Stack Web Developer with 2+ years of experience building scalable and reliable web applications across ed-tech, insurance, and workforce management domains. I love crafting efficient APIs, building modern user interfaces, and optimizing backend performance using technologies like NestJS, React, MongoDB, and Flask.
-
----
-
-## 💼 About Me
-
-- 👨‍💻 Full-Stack Developer @ **ProCrew** | Working with NestJS, React, MongoDB, Flask, OpenCV, Redis, Firestore, and more.
-- 🧪 Passionate about clean code, test-driven development, and high-performance web apps.
-- 💡 Experienced in both monolithic and microservices architectures.
-- 🧠 Building projects that deliver real-world impact: automation, analytics, real-time updates, and more.
-- 🇪🇬 Based in Alexandria, Egypt.
+I'm a Full-Stack Web Developer with over 2 years of experience delivering scalable and efficient web applications across ed-tech, insurance, and productivity domains. I enjoy building elegant UIs, writing clean backend logic, and solving real-world problems with modern tools and smart architecture.
 
 ---
 
-## 🧰 Tech Stack
+## 💡 About Me
 
-**Languages:** JavaScript, TypeScript, SQL  
-**Frontend:** React.js, Next.js, Redux, Tailwind CSS  
-**Backend:** Node.js, NestJS, Express.js, Flask  
-**Databases:** MongoDB, MySQL, PostgreSQL, Redis, Firestore  
-**Tools:** Git, Docker, BullMQ, Jest, Husky, Jira, Datadog, Looker, Segment  
+- 🧠 Full-Stack Developer @ **ProCrew**, building products with NestJS, React, Flask, OpenCV, and MongoDB.
+- 🧪 Worked on platforms like **Mastery**, **Peak**, **Savvy**, and more – delivering high-quality backend systems and beautiful frontend interfaces.
+- ⚙️ Experienced in crafting APIs, real-time features, and monitoring systems.
+- 🔧 Passionate about code quality, test-driven development, and building things that scale.
 
 ---
 
-## 📌 Notable Projects
+## 🛠️ Tech Stack
+
+**Frontend**
+- React, Next.js, Redux, Tailwind CSS
+
+**Backend**
+- Node.js, NestJS, Express.js, Flask
+
+**Databases**
+- MongoDB, PostgreSQL, MySQL, Redis, Firestore
+
+**DevOps & Tools**
+- Git, Docker, BullMQ, Jest, Husky, Jira, Firebase, Datadog, Segment, Looker
+
+---
+
+## 📈 GitHub Stats
+
+![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NourMidan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NourMidan&layout=compact&theme=radical)
+
+---
+
+## 🧪 Projects
 
 ### 🎓 [Mastery](https://mastery-grade.com)
-- **Overview:** End-to-end exam management system with OMR-based evaluation.
-- **Features:** PDF generation per student, template creation, analytics reporting.
-- **Stack:** Next.js, React, Redux, Flask, OpenCV, MongoDB, NestJS
+- Tech: ReactJS, Next.js, NestJS, MongoDB, Flask, OpenCV, Redis
+- Description: A smart exam management and OMR evaluation system with automated PDF generation and analytics.
 
 ---
 
 ### ⏱ [Peak](https://peaktime.app/en/)
-- **Overview:** Time & task tracking platform for employers and employees.
-- **Features:** Employer dashboards, stateful UI, offline time tracking.
-- **Stack:** NestJS, Next.js, MongoDB, Mongoose, Redis
+- Tech: NestJS, Next.js, MongoDB, Mongoose, Redis
+- Description: A task and time tracking platform with dashboards and offline capabilities for workforce productivity.
 
 ---
 
 ### 🛡️ Savvy
-- **Overview:** A full-featured insurance platform backend.
-- **Features:** Real-time system monitoring, analytics with Datadog & Looker.
-- **Stack:** Node.js, Express, Firestore, Segment, Sentry, Amplitude
+- Tech: Node.js, Express, Firestore, Segment, Looker, Datadog, Amplitude
+- Description: Built the backend for an insurance platform with real-time monitoring, analytics, and efficient data storage.
 
 ---
 
 ### 💼 Market-Place
-- **Overview:** Hiring platform for developers with strong testing architecture.
-- **Stack:** NestJS, TypeORM, MySQL, Next.js
+- Tech: NestJS, TypeORM, MySQL, Next.js
+- Description: A developer hiring platform with strong testing coverage and streamlined integration.
 
 ---
 
 ### 📚 Life-Project
-- **Overview:** E-learning platform with real-time notifications and payments.
-- **Stack:** NestJS, Prisma, MySQL, React.js, Firebase
+- Tech: NestJS, Prisma, MySQL, React.js, Firebase
+- Description: An E-learning platform featuring real-time course updates, notifications, and integrated payments.
 
 ---
 
-## 🎓 Education & Certifications
+## 📜 Certifications
 
-- 🎓 **Arab Academy for Science and Technology** — Diploma in Computer Science (2023)
-- 🎓 **Information Technology Institute (ITI)** — Web Development Track (2021)
-
-**Certifications:**
-- ✅ React Cross-Skilling Nanodegree – Udacity, 2022  
-- ✅ Advanced Web Development Nanodegree – Udacity, 2021  
-- ✅ Web Development Professional Nanodegree – Udacity, 2020  
+- 🏆 React Cross-Skilling Nanodegree – Udacity (2022)
+- 🏆 Advanced Web Development – Udacity (2021)
+- 🏆 Web Development Professional – Udacity (2020)
 
 ---
 
-## 📬 Get in Touch
+## 🎓 Education
 
-- 📧 nourmidan67@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nourmidan/)  
-- 💻 [GitHub](https://github.com/NourMidan)
+- 📘 Diploma in Computer Science – Arab Academy for Science and Technology (2023)
+- 🎓 Web Development Track – Information Technology Institute (ITI) (2021)
 
-Thanks for stopping by! 🚀  
+---
+
+## 🤝 Connect With Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nourmidan/)
+- 💼 [GitHub](https://github.com/NourMidan)
+- 📧 nourmidan67@gmail.com
+- 📞 +20 1112712452
+
+---
+
+Thanks for visiting my profile! 🚀
