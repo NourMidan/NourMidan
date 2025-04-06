@@ -34,54 +34,6 @@ I'm a Full-Stack Web Developer with over 2 years of experience delivering scalab
 ![Nour's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NourMidan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NourMidan&layout=compact&theme=radical)
 
----
-
-## 🧪 Projects
-
-### 🎓 [Mastery](https://mastery-grade.com)
-- Tech: ReactJS, Next.js, NestJS, MongoDB, Flask, OpenCV, Redis
-- Description: A smart exam management and OMR evaluation system with automated PDF generation and analytics.
-
----
-
-### ⏱ [Peak](https://peaktime.app/en/)
-- Tech: NestJS, Next.js, MongoDB, Mongoose, Redis
-- Description: A task and time tracking platform with dashboards and offline capabilities for workforce productivity.
-
----
-
-### 🛡️ Savvy
-- Tech: Node.js, Express, Firestore, Segment, Looker, Datadog, Amplitude
-- Description: Built the backend for an insurance platform with real-time monitoring, analytics, and efficient data storage.
-
----
-
-### 💼 Market-Place
-- Tech: NestJS, TypeORM, MySQL, Next.js
-- Description: A developer hiring platform with strong testing coverage and streamlined integration.
-
----
-
-### 📚 Life-Project
-- Tech: NestJS, Prisma, MySQL, React.js, Firebase
-- Description: An E-learning platform featuring real-time course updates, notifications, and integrated payments.
-
----
-
-## 📜 Certifications
-
-- 🏆 React Cross-Skilling Nanodegree – Udacity (2022)
-- 🏆 Advanced Web Development – Udacity (2021)
-- 🏆 Web Development Professional – Udacity (2020)
-
----
-
-## 🎓 Education
-
-- 📘 Diploma in Computer Science – Arab Academy for Science and Technology (2023)
-- 🎓 Web Development Track – Information Technology Institute (ITI) (2021)
-
----
 
 ## 🤝 Connect With Me
 
