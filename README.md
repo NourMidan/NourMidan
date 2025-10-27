@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Nour Abdelmonem Aly
 
-I'm a Full-Stack Web Developer with over 2 years of experience delivering scalable and efficient web applications across ed-tech, insurance, and productivity domains. I enjoy building elegant UIs, writing clean backend logic, and solving real-world problems with modern tools and smart architecture.
+I'm a Full-Stack software engineer delivering scalable and efficient web applications across ed-tech, insurance, and productivity domains. I enjoy building elegant UIs, writing clean backend logic, and solving real-world problems with modern tools and smart architecture.
 
 ---
 
 ## 💡 About Me
 
-- 🧠 Full-Stack Developer @ **ProCrew**, building products with NestJS, React, Flask, OpenCV, and MongoDB.
+- 🧠 Full-Stack Developer @ **Nawy**, building products with NestJS, React, Flask, OpenCV, and MongoDB.
 - 🧪 Worked on platforms like **Mastery**, **Peak**, **Savvy**, and more – delivering high-quality backend systems and beautiful frontend interfaces.
 - ⚙️ Experienced in crafting APIs, real-time features, and monitoring systems.
 - 🔧 Passionate about code quality, test-driven development, and building things that scale.
